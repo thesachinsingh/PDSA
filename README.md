@@ -3,7 +3,7 @@
 
 - [x] [Binary Search](./binary_search.py)
 - [x] [Selection Sort](./selection_sort.py)
-- [ ] Insertion Sort
+- [x] [Insertion Sort](./insertion_sort.py)
 - [ ] Merge Sort
 - [ ] QuickSort
 
